@@ -68,5 +68,4 @@ After implementing the functions above, the testing is to be performed on two st
 
 # Technologies:
 - Python
-
 - Google Colab
